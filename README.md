@@ -2,6 +2,16 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+## Table of Contents
++ [Description](#Description)
++ [Installation](#Installation)
++ [Usage](#Usage)
++ [License](#License)
++ [Contributing](#Contributing)
++ [Tests](#Tests)
++ [Questions](#Questions)
+
+
 ## Description
 Auto-generate a readme file for user's projects.
 
